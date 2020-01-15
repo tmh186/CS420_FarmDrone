@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="javaFX">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaFX/lib/javaFX.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="javaFX-jps-plugin">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/plugins/javaFX/lib/javaFX-jps-plugin.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
